@@ -1,0 +1,6 @@
+{
+  "name": "Bible App",
+  "description": "An interactive, high-fidelity YouVersion Bible replica with scripture reading, highlights, notes, plans, guided prayer, audio voiceover sync, and visual custom verse-image creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
